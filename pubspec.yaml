@@ -64,8 +64,8 @@ dependencies:
   # Authentication
   local_auth: ^2.3.0
 
-  # Haptics
-  flutter_haptics: ^1.0.2
+  # Haptics (Valid package)
+  flutter_haptic_feedback: ^1.0.0
 
   # In-App Purchases
   in_app_purchase: ^3.2.0
