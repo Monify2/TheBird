@@ -54,7 +54,7 @@ dependencies:
   agora_rtc_engine: ^6.3.1
 
   # Animations & Loading
-  flutter_skeleton_ui: ^1.0.1
+  shimmer: ^3.0.0  # Replaces flutter_skeleton_ui
   lottie: ^3.1.2
 
   # Device Info
@@ -64,7 +64,7 @@ dependencies:
   # Authentication
   local_auth: ^2.3.0
 
-  # Haptics (Valid package)
+  # Haptics
   flutter_haptic_feedback: ^1.0.0
 
   # In-App Purchases
@@ -78,9 +78,6 @@ dependencies:
 
   # Screenshot Detection
   screenshot: ^2.0.1
-
-  # Skeleton Placeholder
-  skeletonizer: ^1.4.2
 
   # Flash List (Performance List)  
   flutter_staggered_grid_view: ^0.7.0
